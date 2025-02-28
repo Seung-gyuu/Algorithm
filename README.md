@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Seung-gyuu/Algorithm/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Seung-gyuu/Algorithm/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Seung-gyuu/Algorithm/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/Seung-gyuu/Algorithm/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Seung-gyuu/Algorithm/tree/master/0620-not-boring-movies) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Seung-gyuu/Algorithm/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Seung-gyuu/Algorithm/tree/master/1153-product-sales-analysis-i) |
