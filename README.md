@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/Seung-gyuu/Algorithm/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Seung-gyuu/Algorithm/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Seung-gyuu/Algorithm/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Seung-gyuu/Algorithm/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Seung-gyuu/Algorithm/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Seung-gyuu/Algorithm/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Seung-gyuu/Algorithm/tree/master/0570-managers-with-at-least-5-direct-reports) |
