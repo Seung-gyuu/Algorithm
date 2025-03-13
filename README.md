@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -60,5 +61,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
