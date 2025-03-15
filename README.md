@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -69,4 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
