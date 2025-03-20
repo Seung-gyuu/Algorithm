@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seung-gyuu/Algorithm/tree/master/0290-word-pattern) |
