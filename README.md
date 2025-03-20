@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
