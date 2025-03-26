@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Seung-gyuu/Algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Seung-gyuu/Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Seung-gyuu/Algorithm/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Seung-gyuu/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
