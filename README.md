@@ -139,8 +139,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Seung-gyuu/Algorithm/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Seung-gyuu/Algorithm/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
