@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Seung-gyuu/Algorithm/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Seung-gyuu/Algorithm/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Seung-gyuu/Algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
