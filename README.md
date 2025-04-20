@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Seung-gyuu/Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Seung-gyuu/Algorithm/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Seung-gyuu/Algorithm/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Seung-gyuu/Algorithm/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
