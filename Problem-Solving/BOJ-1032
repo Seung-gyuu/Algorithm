@@ -1,0 +1,59 @@
+# BOJ 1032 
+
+## LINK
+https://www.acmicpc.net/problem/1032
+
+## DESC
+Given several file names, you need to create a pattern where:
+- Characters that are the same across all file names stay the same.
+- Characters that differ are replaced with `?`.
+- N <= 50
+
+---
+
+## Time Complexity
+- n: number of files (≤ 50)
+- m: length of filename (≤ 50)
+- **O(n × m)**
+
+---
+
+## Solution 1
+```python
+def solution():
+    # line 1: number of files
+    # line 2 - N: file names
+    # solve: output pattern (letters, ., ?)
+
+    n = int(input())
+    
+    if n == 1:
+        print(input())
+    else:
+        names = [input() for _ in range(n)]  		
+        pattern = ""
+
+        for i in range(len(names[0])):
+            ch = names[0][i]
+            for j in range(1, n):
+                if ch != names[j][i]:
+                    ch = "?"
+                    break
+            pattern += ch
+
+        print(pattern)
+
+```
+
+## Solution 2
+```python
+def solution_optimized():
+    num = int(input())
+    word = list(input())
+    for _ in range(num - 1):
+        word_2 = input()
+        for i in range(len(word)):
+            if word[i] != word_2[i]:
+                word[i] = '?'
+    print(''.join(word))
+```
