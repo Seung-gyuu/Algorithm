@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seung-gyuu/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Seung-gyuu/Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Seung-gyuu/Algorithm/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Seung-gyuu/Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
