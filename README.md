@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Seung-gyuu/Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Seung-gyuu/Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Seung-gyuu/Algorithm/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Seung-gyuu/Algorithm/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Seung-gyuu/Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Seung-gyuu/Algorithm/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -201,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Seung-gyuu/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
