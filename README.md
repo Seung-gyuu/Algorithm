@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Seung-gyuu/Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Array
 |  |
 | ------- |
@@ -125,10 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Seung-gyuu/Algorithm/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Seung-gyuu/Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Seung-gyuu/Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Sorting
 |  |
 | ------- |
