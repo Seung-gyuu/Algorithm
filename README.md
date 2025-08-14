@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seung-gyuu/Algorithm/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Seung-gyuu/Algorithm/tree/master/0383-ransom-note) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Seung-gyuu/Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Seung-gyuu/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Seung-gyuu/Algorithm/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seung-gyuu/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
