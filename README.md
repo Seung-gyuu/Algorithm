@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Seung-gyuu/Algorithm/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Seung-gyuu/Algorithm/tree/master/0290-word-pattern) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Seung-gyuu/Algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Seung-gyuu/Algorithm/tree/master/0149-max-points-on-a-line) |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Seung-gyuu/Algorithm/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seung-gyuu/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## Union Find
 |  |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Seung-gyuu/Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Seung-gyuu/Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Seung-gyuu/Algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Seung-gyuu/Algorithm/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Seung-gyuu/Algorithm/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -218,9 +222,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Seung-gyuu/Algorithm/tree/master/0070-climbing-stairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Seung-gyuu/Algorithm/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
