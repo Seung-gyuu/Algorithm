@@ -198,15 +198,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Seung-gyuu/Algorithm/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Seung-gyuu/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Seung-gyuu/Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Seung-gyuu/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Seung-gyuu/Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Seung-gyuu/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Seung-gyuu/Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
