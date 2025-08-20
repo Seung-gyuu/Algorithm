@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Seung-gyuu/Algorithm/tree/master/0817-design-hashmap) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Seung-gyuu/Algorithm/tree/master/0392-is-subsequence) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Seung-gyuu/Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seung-gyuu/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Seung-gyuu/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Seung-gyuu/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
